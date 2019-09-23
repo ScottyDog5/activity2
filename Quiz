@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Quiz of questionable quality</title>
+  </head>
+  <body>
+<header> <h1>Computing Quiz</h1>
+</header>
+<form>
+    First name:<br>
+    <input type="text" name="firstname"><br>
+    Last name:<br>
+    <input type="text" name="lastname">
+
+    <input type="radio" name="gender" value="male" checked> Male<br>
+<input type="radio" name="gender" value="female"> Female<br>
+<input type="radio" name="gender" value="other"> Other
+
+  <input type="submit" value="Submit">
+  Your interests <input type="textarea" name="Interests" row="5"
+</form>
+ <footer><h5>Sponsored by skillshare <h5></footer>
+  </body>
+</html>
